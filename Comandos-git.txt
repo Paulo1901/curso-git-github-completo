@@ -17,4 +17,6 @@ git branch -M main
 
 5 - Buscando alteração no repositório online para repositório local
 git pull
- 
+
+6 - Clonando repositório do repositório online
+git clone URL do repositório
