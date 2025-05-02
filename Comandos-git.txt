@@ -1,0 +1,19 @@
+1 - primeiro comando para iniciar um repositório
+ git init
+
+2 - colocando os arquivos para ser munitorados pelo git
+git add nome_do_arquivo
+git add . "adiciona todos os arquivos para ser monitorados pelo git"
+git status - verifica como está o estados dos arquivo
+
+3 - commitar os arquivos para github
+git commit nome_do_arquivo -m "sobre o seu commit breve descrição"
+git commit -m "breve descrição para seu commit" - todos os commits
+
+
+4 - No site do github crie um repositório
+para subir no repo local para repo online altere a main
+git branch -M main
+
+
+ 
