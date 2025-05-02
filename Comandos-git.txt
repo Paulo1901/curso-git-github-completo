@@ -15,5 +15,6 @@ git commit -m "breve descrição para seu commit" - todos os commits
 para subir no repo local para repo online altere a main
 git branch -M main
 
-
+5 - Buscando alteração no repositório online para repositório local
+git pull
  
