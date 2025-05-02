@@ -20,3 +20,6 @@ git pull
 
 6 - Clonando repositório do repositório online
 git clone URL do repositório
+
+7 - Verificando o git log
+git log
