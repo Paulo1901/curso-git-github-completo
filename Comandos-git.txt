@@ -23,3 +23,7 @@ git clone URL do repositório
 
 7 - Verificando o git log
 git log
+
+
+8 - Utilizando o git checkout para rollback, voltar as atualizações
+git checkout nome_do_arquivo
