@@ -39,3 +39,6 @@ git branch nome_da_nova_branch
 11 - Entrando na nova branch criada 
 git checkout nome_da_bramch_criada
 
+passando pra branch ao mesmo tempo que ela é criada
+git branch -b "page_teste"
+
