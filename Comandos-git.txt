@@ -45,3 +45,5 @@ git checkout -b "page_teste"
 12 - Deletando uma branch
 git branch -d nome_da_nova_branch
 
+13 - Comando para merge branch
+git merge noome da branch
