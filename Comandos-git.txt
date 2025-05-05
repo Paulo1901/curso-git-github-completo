@@ -42,3 +42,6 @@ git checkout nome_da_bramch_criada
 passando pra branch ao mesmo tempo que ela é criada
 git checkout -b "page_teste"
 
+12 - Deletando uma branch
+git branch -d nome_da_nova_branch
+
